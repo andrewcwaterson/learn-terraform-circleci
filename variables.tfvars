@@ -1,4 +1,4 @@
 region = "us-east-1"
-label  = "sandbox-circleci"
-app    = "circleci-testing"
+label  = "sandboxfun"
+app    = "testing"
 user   = "circleci-user"
